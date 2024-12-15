@@ -1,0 +1,44 @@
+complete the following task in interative way in first pahse we have to finalize the reaerch papers
+
+TASK: Read And analyze the reaserch papers related to topic and make  ppt slides
+topic:software re-engineering approaches
+
+search for two research paper relatd to each approach
+Big Bang approach
+Incremental approach.
+Iterative approach. 
+Ensure the papers meet the following criteria:
+
+Published within the last 5 years.
+
+Originating from European countries.
+
+Open-source and downloadable without paywalls.
+
+1. Big Bang Approach
+
+Paper : "Why Big Bang Modernizations Do Not Succeed? Case Studies"
+
+Authors: Hazem El Khatib
+Published: June 2022
+Source: RingStone Tech
+Link: https://www.ringstonetech.com/post/why-big-bang-modernizations-do-not-succeed-case-studies
+Summary: This article presents case studies highlighting the challenges and failures associated with Big Bang modernization approaches in software systems.
+2. Incremental Approach
+
+Paper : "An Incremental Approach to Software Reengineering Based on Object-Data Mapping"
+
+Authors: Not specified
+Published: Date not specified
+Source: Academia.edu
+Link: https://www.academia.edu/53365536/An_Incremental_Approach_to_Software_Reengineering_Based_on_Object_Data_Mapping
+Summary: This paper addresses the problem of reengineering legacy systems towards adopting current predominant technologies through an incremental approach based on object-data mapping.
+3. Iterative Approach
+
+Paper 1: "Iterative Reengineering to Compensate for Quick-Fix Maintenance"
+
+Authors: Not specified
+Published: Date not specified
+Source: IEEE Xplore
+Link: https://ieeexplore.ieee.org/document/526536
+Summary: This paper discusses how iterative reengineering can address the issues arising from quick-fix maintenance approaches, leading to improved system structure and documentation.
