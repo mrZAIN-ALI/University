@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import FileUpload from "./components/file_upload";
+import ExtractedForm from "./components/extracted_form";
+import CrudOperations from "./components/crud_operations";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const [extractedData, setExtractedData] = useState(null);
+
+    const handleDataSubmit = (data) => {
+        console.log("Validated Data:", data);
+    };
+
+    return (
+        <Router>
+            <div className="bg-gray-100 min-h-screen">
+                <Routes>
+                    <Route
+                        path="/"
+                        element={
+                            <>
+                                <FileUpload setExtractedData={setExtractedData} />
+                                {extractedData && (
+                                    <ExtractedForm data={extractedData} onSubmit={handleDataSubmit} />
+                                )}
+                            </>
+                        }
+                    />
+                    <Route path="/crudOperations" element={<CrudOperations />} />
+                </Routes>
+            </div>
+        </Router>
+    );
 }
 
 export default App;
