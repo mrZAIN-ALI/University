@@ -1,0 +1,25 @@
+/^[^A-Za-z]/  12MY name Is Abc Xyz
+
+/[^A-Za-z]/   12MY name Is Xyz Abc
+
+/^12/ 12MY name Is Abc Xyz
+
+/^[123]/ 12MY name Is Abc Xyz
+
+/My{1}/  12Myy name Is Abc Xyz
+
+/^My{3}/ 12Myy name Is Abc Xyz  
+               Myyyyy name
+
+/^My{3}/   12Myy name Is Abc Xyz. Myyyyy name
+
+/My{1,}/   12Myy name Is Abc Xyz. Myyyyy name
+
+
+
+mark History of Computers The first counting device was used by the primitive people. They used sticks, stones and bones as counting tools. As human mind and technology improved with time more computing devices were developed. Some of the popular computing devices starting with the first to recent ones are described below; The history of computer begins with the birth of abacus which is believed to be the first computer. It is said that Chinese invented Abacus around 4000 mark years ago. It was a wooden rack which has metal rods with beads mounted on them. The beads were moved by the abacus operator according to some rules to perform arithmetic calculations. Abacus is still used in some countries like China, Russia and Japan. An image of this tool is shown below; Computer Abacus 1
+Napier's Bones It was a manually-operated calculating device which was invented by John Napier (1550-1617) of Merchiston. In this calculating tool, he used 9 different ivory strips or bones marked with numbers to multiply and divide. So, the tool became known as "Napier's Bones. It was also the first machine to use the decimal point mark.
+
+/\b[0-9]\b/
+/\b\b/
+/\bmark\b/
