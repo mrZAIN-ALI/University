@@ -1,0 +1,21 @@
+Need for restructuring software: Pages 255–257​
+.
+Key activities in a software refactoring process: Pages 257–259​
+​
+.
+Identifying what to refactor: Pages 259–260​
+.
+Determining which refactorings to apply: Pages 260–261​
+.
+Selecting a feasible subset of refactorings: Pages 261–262​
+​
+.
+Preserving software behavior while refactoring: Pages 262–263​
+​
+.
+Key formalisms and techniques for refactoring: Pages 265–267​
+​
+.
+Concept of assertions with examples: Pages 266–267​
+​
+.
