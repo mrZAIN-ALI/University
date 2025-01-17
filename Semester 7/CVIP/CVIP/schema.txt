@@ -1,0 +1,50 @@
+CREATE TABLE suppliers (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    address TEXT NOT NULL,
+    sales_tax_reg_no VARCHAR(50),
+    ntn VARCHAR(50)
+);
+
+CREATE TABLE buyers (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    address TEXT NOT NULL,
+    sales_tax_reg_no VARCHAR(50),
+    ntn VARCHAR(50)
+);
+
+CREATE TABLE invoices (
+    id SERIAL PRIMARY KEY,
+    invoice_number VARCHAR(50) NOT NULL,
+    invoice_date DATE NOT NULL,
+    term_of_sale VARCHAR(50),
+    supplier_id INT REFERENCES suppliers(id),
+    buyer_id INT REFERENCES buyers(id),
+    total_quantity INT NOT NULL,
+    total_amount_excluding NUMERIC(12, 2) NOT NULL,
+    sales_tax_total NUMERIC(12, 2) NOT NULL,
+    net_tax_inclusive NUMERIC(12, 2) NOT NULL,
+    uploaded_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE invoice_items (
+    id SERIAL PRIMARY KEY,
+    invoice_id INT REFERENCES invoices(id),
+    serial_no INT NOT NULL,
+    description VARCHAR(255) NOT NULL,
+    quantity INT NOT NULL,
+    rate NUMERIC(12, 2) NOT NULL,
+    amount_excluding NUMERIC(12, 2) NOT NULL,
+    sales_tax NUMERIC(12, 2),
+    amount_including NUMERIC(12, 2) NOT NULL
+);
+
+
+
+
+project URL:https://xchoumvoqnkgpywmiiqg.supabase.co
+api key:
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhjaG91bXZvcW5rZ3B5d21paXFnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzUxNjg5ODUsImV4cCI6MjA1MDc0NDk4NX0.-kbMao3J8LIal337g_FW2954chEm3kVXXAGaNf3AriY
+

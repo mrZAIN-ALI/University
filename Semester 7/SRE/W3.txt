@@ -1,0 +1,17 @@
+Week 3 & $ Re-engineering
+Usman Ghani
+•
+Oct 13
+1. Fundamentals of Re-engineering
+2. Objectives of Re-engineering
+3. Re-engineering Concept
+4. Levels of Abstraction
+5. General Model for Reengineering
+6. Types of Changes
+7. Strategies
+8. Re-engineering Variations
+9. Re-engineering Process
+10. Approaches
+11. Source code Re-engineering Model
+12. Phase Re-engineering Model
+13. Code Reverse Engineering

@@ -1,0 +1,8 @@
+1. Software Evolution Process  
+2. Program Types 
+3. Laws of SW evolution 
+4. implications of the laws 
+5. evolution of open-source software 
+6. SW models, top down and bottom-up SW
+evolution
+7. Using the dual approach

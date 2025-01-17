@@ -1,0 +1,16 @@
+Week 7 Software Evolution Process (Continue..)
+Usman Ghani
+•
+Oct 13
+1. Requirement-driven SW evolution 
+2. SW evaluation techniques 
+3. Unified process, Architecture & synthesis
+process 
+4. Scenario based, design patterns 
+5. Challenges 
+6. Classification of challenges 
+7. Preserving SW quality, 
+8. SW re documentation 
+9.Renovation 
+10. Technologies & architectures 
+11. Measurable benefits

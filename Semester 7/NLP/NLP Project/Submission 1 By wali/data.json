@@ -1,0 +1,1420 @@
+[
+    {
+        "district": "پنجاب",
+        "details": {
+            "email": "pkm.punjab@punjabpolice.gov.pk",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "12/06/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "اٹک",
+        "details": {
+            "address": "جنرل بس اسٹینڈ کے قریب، اٹک",
+            "email": "pkm.attock@punjabpolice.gov.pk",
+            "phone": "0579316440",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "4/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "بہاولنگر 1",
+        "details": {
+            "address": "تھانا سٹی اے ڈویژن کے قریب، بہاولنگر",
+            "email": "pkm.bahawalnagar@punjabpolice.gov.pk",
+            "phone": "0632277782",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "18/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "بہاولنگر 2",
+        "details": {
+            "address": "پی کے ایم ہارون آباد، پی ایس سٹی ہارون آباد کے قریب، بہاولنگر",
+            "email": "pkm.bahawalnagar@punjabpolice.gov.pk",
+            "phone": "0632251515",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "18/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "بہاولپور 1",
+        "details": {
+            "address": "سرایئکی چوک کے قریب، کینٹ، بہاولپور",
+            "email": "pkm.bahawalpur@punjabpolice.gov.pk",
+            "phone": "0622200170",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "9/1/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "بہاولپور 2",
+        "details": {
+            "address": "سرایئکی چوک کے قریب، کینٹ، بہاولپور",
+            "email": "pkm.bahawalpur@punjabpolice.gov.pk",
+            "phone": "0622442196",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "9/1/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "بہاولپور 3",
+        "details": {
+            "address": "سرایئکی چوک کے قریب، کینٹ، بہاولپور",
+            "email": "pkm.bahawalpur@punjabpolice.gov.pk",
+            "phone": "0622274456",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "9/1/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "بھکر 1",
+        "details": {
+            "address": "پی کے ایم دریا خان اولڈ ڈیرہ اسماعیل خان روڈ ، بھکر",
+            "email": "pkm.bhakkar@punjabpolice.gov.pk",
+            "phone": "0453253026",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "بھکر 2",
+        "details": {
+            "address": "ڈی پی او آفس،کچہری روڈ، بھکر",
+            "email": "pkm.bhakkar@punjabpolice.gov.pk",
+            "phone": "0453516222",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "چکوال 1",
+        "details": {
+            "address": "اشارہ چوک (پرانا 15 چوک)، تلہ گنگ روڈ ,چکوال",
+            "email": "pkm.chakwal@punjabpolice.gov.pk",
+            "phone": "0543410861",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "چکوال 2",
+        "details": {
+            "address": "اشارہ چوک (پرانا 15 چوک)، تلہ گنگ روڈ ,چکوال",
+            "email": "pkm.chakwal@punjabpolice.gov.pk",
+            "phone": "0543666148",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "چنیوٹ",
+        "details": {
+            "address": "لاری اڈہ کے قریب، سرگودہ روڈ، چنیوٹ",
+            "email": "pkm.chiniot@punjabpolice.gov.pk",
+            "phone": "04769210027",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "5/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "ڈی جی خان 1",
+        "details": {
+            "address": "پولیس اسٹیشن سول لائن کے قریب، ڈی جی خان",
+            "email": "pkm.dgkhan@punjabpolice.gov.pk",
+            "phone": "0649260098",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "10/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "ڈی جی خان 2",
+        "details": {
+            "address": "پولیس اسٹیشن سول لائن کے قریب، ڈی جی خان",
+            "email": "pkm.dgkhan@punjabpolice.gov.pk",
+            "phone": "0642601700",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "10/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "ڈی جی خان 3",
+        "details": {
+            "address": "ای الخدمت PKM، ڈیرہ غازی خان",
+            "email": "pkm.dgkhan@punjabpolice.gov.pk",
+            "phone": "0642601700",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "10/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "فیصل آباد 1",
+        "details": {
+            "address": "ریسکیو 15، مین گیٹ زراعت یونیورسٹی کے قریب، جیل روڈ، فیصل آباد",
+            "email": "pkm.faisalabad@punjabpolice.gov.pk",
+            "phone": "0419200246",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "2/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "فیصل آباد 2",
+        "details": {
+            "address": "ریسکیو 15، مین گیٹ زراعت یونیورسٹی کے قریب، جیل روڈ، فیصل آباد",
+            "email": "pkm.faisalabad@punjabpolice.gov.pk",
+            "phone": "0419230265",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "2/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "فیصل آباد 3",
+        "details": {
+            "address": "ریسکیو 15، مین گیٹ زراعت یونیورسٹی کے قریب، جیل روڈ، فیصل آباد",
+            "email": "pkm.faisalabad@punjabpolice.gov.pk",
+            "phone": "0414311500",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "2/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "گجرانوالہ 1",
+        "details": {
+            "address": "اشرف مرتھ شہید پولیس لائنز، گجرانوالہ",
+            "email": "pkm.gujranwala@punjabpolice.gov.pk",
+            "phone": "054660002",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "گجرانوالہ 2",
+        "details": {
+            "address": "اشرف مرتھ شہید پولیس لائنز، گجرانوالہ",
+            "email": "pkm.gujranwala@punjabpolice.gov.pk",
+            "phone": "0556810901",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "گجرانوالہ 3",
+        "details": {
+            "address": "پی کے ایم چیمبر آف کامرس ٹرسٹ پلازہ ماڈل ٹاؤن گوجرانوالہ",
+            "email": "pkm.gujranwala@punjabpolice.gov.pk",
+            "phone": "0553254440",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "گجرانوالہ 4",
+        "details": {
+            "address": "اشرف مرتھ شہید پولیس لائنز، گجرانوالہ",
+            "email": "pkm.gujranwala@punjabpolice.gov.pk",
+            "phone": "0553821306",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "گجرات 1",
+        "details": {
+            "address": "پولیس لائن کے قریب،گجرات",
+            "email": "pkm.gujrat@punjabpolice.gov.pk",
+            "phone": "0533600692",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "05/05/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "گجرات 2",
+        "details": {
+            "address": "پولیس لائن کے قریب،گجرات",
+            "email": "pkm.gujrat@punjabpolice.gov.pk",
+            "phone": "0537601314",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "05/05/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "حافظ آباد 1",
+        "details": {
+            "address": "فوارہ چوک کے قریب، نیو پولیس سٹیشن کے سامنے، حافظ آباد",
+            "email": "pkm.hafizabad@punjabpolice.gov.pk",
+            "phone": "0547525420",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "حافظ آباد 2",
+        "details": {
+            "address": "فوارہ چوک کے قریب، نیو پولیس سٹیشن کے سامنے، حافظ آباد",
+            "email": "pkm.hafizabad@punjabpolice.gov.pk",
+            "phone": "0547531419",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "حافظ آباد 3",
+        "details": {
+            "address": "پی کے ایم جلالپور بھٹیاں حافظ آباد",
+            "email": "pkm.hafizabad@punjabpolice.gov.pk",
+            "phone": "0547500610",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "جھنگ",
+        "details": {
+            "address": "مین گیٹ کے قریب، ضلعی جیل، جھنگ",
+            "email": "pkm.jhang@punjabpolice.gov.pk",
+            "phone": "0479200315",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "12/7/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "جھلم 1",
+        "details": {
+            "address": "سٹی پولیس سٹیشن کے قریب، ٹریفک کے دفتر کے قریب، جدہ روڈ، جہلم",
+            "email": "pkm.jhelum@punjabpolice.gov.pk",
+            "phone": "0544210524",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "6/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "جھلم 2",
+        "details": {
+            "address": "سٹی پولیس سٹیشن کے قریب، ٹریفک کے دفتر کے قریب، جدہ روڈ، جہلم",
+            "email": "pkm.jhelum@punjabpolice.gov.pk",
+            "phone": "0544278703",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "6/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "جھلم 3",
+        "details": {
+            "address": "سٹی پولیس سٹیشن کے قریب، ٹریفک کے دفتر کے قریب، جدہ روڈ، جہلم",
+            "email": "pkm.jhelum@punjabpolice.gov.pk",
+            "phone": "0544224073",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "6/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "قصور 1",
+        "details": {
+            "address": "ڈی پی او دفتر، قصور",
+            "email": "pkm.kasur@punjabpolice.gov.pk",
+            "phone": "0492724992",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "27/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "قصور 2",
+        "details": {
+            "address": "ڈی پی او دفتر، قصور",
+            "email": "pkm.kasur@punjabpolice.gov.pk",
+            "phone": "0494423333",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "27/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "خانیوال 1",
+        "details": {
+            "address": "پولیس سٹیشن کے قریب، کچہری روڈ، خانیوال",
+            "email": "pkm.khanewal@punjabpolice.gov.pk",
+            "phone": "0659200377",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "14/9/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "خانیوال 2",
+        "details": {
+            "address": "پولیس سٹیشن کے قریب، کچہری روڈ، خانیوال",
+            "email": "pkm.khanewal@punjabpolice.gov.pk",
+            "phone": "0652661186",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "14/9/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "خوشاب 1",
+        "details": {
+            "address": "بغداد مسجد کے قریب، قائد آباد",
+            "email": "pkm.khushab@punjabpolice.gov.pk",
+            "phone": "0454920030",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "17/10/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "خوشاب 2",
+        "details": {
+            "address": "جی ٹائپ قائد آباد",
+            "email": "pkm.khushab@punjabpolice.gov.pk",
+            "phone": "0454880915",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "17/10/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لاہور 1",
+        "details": {
+            "address": "ڈی جی آپریشنز آفس، لاہور",
+            "email": "pkm.lahore@punjabpolice.gov.pk",
+            "phone": "04299214847",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "10/12/2015",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لاہور 2",
+        "details": {
+            "address": "لبرٹی پارکنگ کے قریب، گلبرگ 3، لاہور",
+            "email": "pkm.lahore@punjabpolice.gov.pk",
+            "phone": "04299268285",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/1/2014",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لاہور 3",
+        "details": {
+            "address": "اقبال ٹاؤن، مون مارکیٹ، لاہور",
+            "email": "pkm.lahore@punjabpolice.gov.pk",
+            "phone": "04237808877",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "8/1/2016",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لاہور 4",
+        "details": {
+            "address": "پولیس خدمت مرکز گیٹ نمبر 5 گریٹر اقبال پارک نزد لیڈی ولنگڈن لاہور",
+            "email": "pkm.lahore@punjabpolice.gov.pk",
+            "phone": "04299214847",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "07/17/2019",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لاہور 5",
+        "details": {
+            "address": "پولیس خدمت مرکز سروس سیکٹر A، بحریہ ٹاؤن، لاہور",
+            "email": "pkm.lahore@punjabpolice.gov.pk",
+            "phone": "04235454046",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "19/6/2020",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لاہور 6",
+        "details": {
+            "address": "لاہور چیمبر آف کامرس اینڈ انڈسٹری",
+            "email": "pkm.lahore@punjabpolice.gov.pk",
+            "phone": "04236305538",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "20/8/2020",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لاہور 7",
+        "details": {
+            "address": "E-Khidmat ASTP",
+            "email": "pkm.lahore@punjabpolice.gov.pk",
+            "phone": "04299233219",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "20/8/2020",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لاہور 8",
+        "details": {
+            "address": "ای الخدمت مرکز، لاہور II ٹاؤن ہال لوئر مال، انارکلی، لاہور، پنجاب",
+            "email": "pkm.lahore@punjabpolice.gov.pk",
+            "phone": "+92-42-99214572",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "20/8/2020",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لیہ",
+        "details": {
+            "address": "ڈی پی او آفس، ضلع کچیری کے قریب، کروڑ روڈ، لیہ",
+            "email": "pkm.layyah@punjabpolice.gov.pk",
+            "phone": "0606920174",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "لودھران",
+        "details": {
+            "address": "ریسکیو 15 آفس، صدر چوک، بہاولپور ملتان روڈ، لودھران",
+            "email": "pkm.lodhran@punjabpolice.gov.pk",
+            "phone": "0608362015",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "25/8/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "منڈی بہاؤالدین 1",
+        "details": {
+            "address": "ڈی پی او آفس، ضلع کمپلیکس، منڈی بہاؤالدین",
+            "email": "pkm.mandibahauddin@punjabpolice.gov.pk",
+            "phone": "0546650339",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "24/8/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "منڈی بہاؤالدین 2",
+        "details": {
+            "address": "ڈی پی او آفس، ضلع کمپلیکس، منڈی بہاؤالدین",
+            "email": "pkm.mandibahauddin@punjabpolice.gov.pk",
+            "phone": "0546566512",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "24/8/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "منڈی بہاؤالدین 3",
+        "details": {
+            "address": "ڈی پی او آفس، ضلع کمپلیکس، منڈی بہاؤالدین",
+            "email": "pkm.mandibahauddin@punjabpolice.gov.pk",
+            "phone": "0546581205",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "24/8/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "میانوالی 1",
+        "details": {
+            "address": "Katcha Pacca Morr Kundian، میانوالی",
+            "email": "pkm.mianwali@punjabpolice.gov.pk",
+            "phone": "0459241221",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "23/9/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "میانوالی 2",
+        "details": {
+            "address": "PKM Harnoli Morr، میانوالی",
+            "email": "pkm.mianwali@punjabpolice.gov.pk",
+            "phone": "0459296266",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "23/9/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "میانوالی 3",
+        "details": {
+            "address": "جہاز چوک کے قریب، میانوالی",
+            "email": "pkm.mianwali@punjabpolice.gov.pk",
+            "phone": "0459231133",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "23/9/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "میانوالی 4",
+        "details": {
+            "address": "کوکران والا کالا باغ، میانوالی",
+            "email": "pkm.mianwali@punjabpolice.gov.pk",
+            "phone": "0459395375",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "23/9/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "مظفر گڑھ 1",
+        "details": {
+            "address": "پولیس سٹیشن کے قریب، ڈی جی خان روڈ ، مظفر گڑھ",
+            "email": "pkm.muzzafargarh@punjabpolice.gov.pk",
+            "phone": "0662423900",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "مظفر گڑھ 2",
+        "details": {
+            "address": "پولیس سٹیشن کے قریب، ڈی جی خان روڈ ، مظفر گڑھ",
+            "email": "pkm.muzzafargarh@punjabpolice.gov.pk",
+            "phone": "0662242129",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "ننکانہ صاحب",
+        "details": {
+            "address": "ریسکیو 15 آفس، بس اسٹینڈ کے قریب، ننکانہ صاحب",
+            "email": "pkm.nankanasb@punjabpolice.gov.pk",
+            "phone": "0562877423",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "2/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "نارووال 1",
+        "details": {
+            "address": "ڈی سی او کے پرانے گھر کے قریب، مین سرکلر روڈ، نارووال",
+            "email": "pkm.narowal@punjabpolice.gov.pk",
+            "phone": "0542-500728",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "20/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "نارووال 2",
+        "details": {
+            "address": "پی کے ایم ڈسٹرکٹ اینڈ سیشن عدالتیں ، جوڈیشل کمپلیکس نارووال",
+            "email": "pkm.narowal@punjabpolice.gov.pk",
+            "phone": "0542500103",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "20/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "اوکارہ 1",
+        "details": {
+            "address": "ٹریفک ہیڈ کوارٹر، صنم سنیما کے قریب، اوکاڑہ",
+            "email": "pkm.okara@punjabpolice.gov.pk",
+            "phone": "0442512012",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "اوکارہ 2",
+        "details": {
+            "address": "ٹریفک ہیڈ کوارٹر، صنم سنیما کے قریب، اوکاڑہ",
+            "email": "pkm.okara@punjabpolice.gov.pk",
+            "phone": "0442622833",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "اوکارہ 3",
+        "details": {
+            "address": "پی کے ایم دیپالپور بصیر پور روڈ ، دیپالپور",
+            "email": "pkm.okara@punjabpolice.gov.pk",
+            "phone": "0444540604",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "پاکپتن",
+        "details": {
+            "address": "ڈی پی او دفتر، پاکپتن",
+            "email": "pkm.pakpattan@punjabpolice.gov.pk",
+            "phone": "0457383152",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "23/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "رحیم یا خان 1",
+        "details": {
+            "address": "ڈی پی او دفتر، ضلعی عدالت کے قریب، رحیم یا خان",
+            "email": "pkm.rahimyarkhan@punjabpolice.gov.pk",
+            "phone": "0685795510",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "29/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "رحیم یا خان 2",
+        "details": {
+            "address": "ڈی پی او دفتر، آفس خان پور رحیم یار خان ایس",
+            "email": "pkm.rahimyarkhan@punjabpolice.gov.pk",
+            "phone": "0685571005",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "29/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "رحیم یا خان 3",
+        "details": {
+            "address": "ڈی پی او دفتر، ضلعی عدالت کے قریب، رحیم یا خان",
+            "email": "pkm.rahimyarkhan@punjabpolice.gov.pk",
+            "phone": "068.9230348",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "29/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "رحیم یا خان 4",
+        "details": {
+            "address": "ڈی پی او دفتر، ضلعی عدالت کے قریب، رحیم یا خان",
+            "email": "pkm.rahimyarkhan@punjabpolice.gov.pk",
+            "phone": "0685959899",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "29/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راجن پور 1",
+        "details": {
+            "address": "پولیس اسٹیشن صدر کے قریب، راجن پور",
+            "email": "pkm.rajanpur@punjabpolice.gov.pk",
+            "phone": "0604-920139",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "4/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راجن پور 2",
+        "details": {
+            "address": "پولیس اسٹیشن صدر کے قریب، راجن پور",
+            "email": "pkm.rajanpur@punjabpolice.gov.pk",
+            "phone": "0604567126",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "4/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راولپنڈی 1",
+        "details": {
+            "address": "ریسکیو 15 دفتر، لیاقت باغ میٹرو اسٹیشن، مری روڈ، راولپنڈی",
+            "email": "pkm.rawalpindi@punjabpolice.gov.pk",
+            "phone": "0513413073",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راولپنڈی 2",
+        "details": {
+            "address": "ریسکیو 15 دفتر، لیاقت باغ میٹرو اسٹیشن، مری روڈ، راولپنڈی",
+            "email": "pkm.rawalpindi@punjabpolice.gov.pk",
+            "phone": "0519293034",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راولپنڈی 3",
+        "details": {
+            "address": "ریسکیو 15 دفتر، لیاقت باغ میٹرو اسٹیشن، مری روڈ، راولپنڈی",
+            "email": "pkm.rawalpindi@punjabpolice.gov.pk",
+            "phone": "0519273677",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راولپنڈی 4",
+        "details": {
+            "address": "پی کے ایم کہوٹہ نزد پولیس اسٹیشن کہوٹہ ، راولپنڈی",
+            "email": "pkm.rawalpindi@punjabpolice.gov.pk",
+            "phone": "0513311001",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راولپنڈی 5",
+        "details": {
+            "address": "ریسکیو 15 دفتر، لیاقت باغ میٹرو اسٹیشن، مری روڈ، راولپنڈی",
+            "email": "pkm.rawalpindi@punjabpolice.gov.pk",
+            "phone": "0519330676",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راولپنڈی 6",
+        "details": {
+            "address": "ریسکیو 15 دفتر، لیاقت باغ میٹرو اسٹیشن، مری روڈ، راولپنڈی",
+            "email": "pkm.rawalpindi@punjabpolice.gov.pk",
+            "phone": "0519314015",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راولپنڈی 7",
+        "details": {
+            "address": "ریسکیو 15 دفتر، لیاقت باغ میٹرو اسٹیشن، مری روڈ، راولپنڈی",
+            "email": "pkm.rawalpindi@punjabpolice.gov.pk",
+            "phone": "0513761195",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "راولپنڈی 8",
+        "details": {
+            "address": "ریسکیو 15 دفتر، لیاقت باغ میٹرو اسٹیشن، مری روڈ، راولپنڈی",
+            "email": "pkm.rawalpindi@punjabpolice.gov.pk",
+            "phone": "0519292832",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/1/2018",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "ساہیوال 1",
+        "details": {
+            "address": "ڈی پی او دفتر کے اندر، ضلعی عدالتوں کے قریب، ساہیوال",
+            "email": "pkm.sahiwal@punjabpolice.gov.pk",
+            "phone": "0404220067",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "ساہیوال 2",
+        "details": {
+            "address": "ڈی پی او دفتر کے اندر، ضلعی عدالتوں کے قریب، ساہیوال",
+            "email": "pkm.sahiwal@punjabpolice.gov.pk",
+            "phone": "0405480035",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "1/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "سرگودھا 1",
+        "details": {
+            "address": "کینٹ پولیس سٹیشن کے قریب، جیل روڈ، سرگودھا",
+            "email": "pkm.sargodha@punjabpolice.gov.pk",
+            "phone": "0486642136",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "13/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "سرگودھا 2",
+        "details": {
+            "address": "کینٹ پولیس سٹیشن کے قریب، جیل روڈ، سرگودھا",
+            "email": "pkm.sargodha@punjabpolice.gov.pk",
+            "phone": "0486681046",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "13/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "سرگودھا 3",
+        "details": {
+            "address": "کینٹ پولیس سٹیشن کے قریب، جیل روڈ، سرگودھا",
+            "email": "pkm.sargodha@punjabpolice.gov.pk",
+            "phone": "0486310213",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "13/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "سرگودھا 4",
+        "details": {
+            "address": "کینٹ پولیس سٹیشن کے قریب، جیل روڈ، سرگودھا",
+            "email": "pkm.sargodha@punjabpolice.gov.pk",
+            "phone": "03331927222",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "13/12/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "سرگودھا 5",
+        "details": {
+            "address": "تھانہ سیٹیلائٹ ٹاؤن سرگودھا",
+            "email": "pkm.sargodha@punjabpolice.gov.pk",
+            "phone": "0486310213",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "26/02/2021",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "شیخوپورہ",
+        "details": {
+            "address": "بی ڈویژن تھانہ سے باہر سرگودھ روڈ ، شیخو پورا",
+            "email": "pkm.sheikhupura@punjabpolice.gov.pk",
+            "phone": "0563611076",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "12/31/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "سیالکوٹ 1",
+        "details": {
+            "address": "پولیس لائنز، سیالکوٹ",
+            "email": "pkm.sialkot@punjabpolice.gov.pk",
+            "phone": "0529250524",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "سیالکوٹ 2",
+        "details": {
+            "address": "پولیس لائنز، سیالکوٹ",
+            "email": "pkm.sialkot@punjabpolice.gov.pk",
+            "phone": "0526619585",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "سیالکوٹ 3",
+        "details": {
+            "address": "پولیس لائنز، سیالکوٹ",
+            "email": "pkm.sialkot@punjabpolice.gov.pk",
+            "phone": "0526520499",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "سیالکوٹ 4",
+        "details": {
+            "address": "پولیس لائنز، سیالکوٹ",
+            "email": "pkm.sialkot@punjabpolice.gov.pk",
+            "phone": "0526440995",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "3/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "ٹوبہ ٹیک سنگھ 1",
+        "details": {
+            "address": "ڈی پی او آفس، ضلع آفس کمپلیکس، ٹوبہ ٹیک سنگھ",
+            "email": "pkm.tobateksingh@punjabpolice.gov.pk",
+            "phone": "0462515909",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "6/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "وہاری 1",
+        "details": {
+            "address": "ڈی پی او آفس، وہاری",
+            "email": "pkm.vehari@punjabpolice.gov.pk",
+            "phone": "0673355532",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "22/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "وہاری 2",
+        "details": {
+            "address": "ڈی پی او آفس، وہاری",
+            "email": "pkm.vehari@punjabpolice.gov.pk",
+            "phone": "0673202028",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "22/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "district": "وہاری 3",
+        "details": {
+            "address": "ڈی پی او آفس، وہاری",
+            "email": "pkm.vehari@punjabpolice.gov.pk",
+            "phone": "0673602017",
+            "operational_info": "پیر تا ہفتہ - صبح 9 تا شام 5 بجے تک، اتوار - بند",
+            "opening_date": "22/11/2017",
+            "location": "نقشہ پر لوکیشن"
+        }
+    },
+    {
+        "label": "درخواست کی ٹریکنگ",
+        "type": "text"
+    },
+    {
+        "label": "ضلع",
+        "type": "dropdown",
+        "options": [
+            "اٹک",
+            "بہاولنگر",
+            "بہاولپور",
+            "بھکر",
+            "چکوال",
+            "چنیوٹ",
+            "ڈی جی خان",
+            "فیصل آباد",
+            "گجرانوالہ",
+            "گجرات",
+            "حافظ آباد",
+            "جھنگ",
+            "جھلم",
+            "قصور",
+            "خانیوال",
+            "خوشاب",
+            "لاہور",
+            "لیہ",
+            "لودھران",
+            "منڈی بہاؤالدین",
+            "میانوالی",
+            "ملتان",
+            "مظفر گڑھ",
+            "ننکانہ صاحب",
+            "نارووال",
+            "اوکارہ",
+            "پاکپتن",
+            "رحیم یا خان",
+            "راجن پور",
+            "راولپنڈی",
+            "ساہیوال",
+            "سرگودھا",
+            "شیخوپورہ",
+            "سیالکوٹ",
+            "ٹوبہ ٹیک سنگھ",
+            "وہاری"
+        ]
+    },
+    {
+        "label": "شناختی کارڈ",
+        "type": "text"
+    },
+    {
+        "label": "دستاویز کی قسم",
+        "type": "dropdown",
+        "options": [
+            "کریکٹر سرٹیفیکیٹ",
+            "پاسپورٹ نمبر"
+        ]
+    },
+    {
+        "label": "ملک",
+        "type": "dropdown",
+        "options": [
+            "ملک منتخب کریں"
+        ]
+    },
+    {
+        "label": "تصدیق کریں",
+        "type": "button"
+    },
+    {
+        "label": "ری سیٹ کریں",
+        "type": "button"
+    },
+    {
+        "service_name": "کریکٹر سرٹیفیکیٹ",
+        "description": "با ہر کے ممالک جانے کے لیے، باہر کے مختلف اداروں میں ملازمت حاصل کرنے کےلیے اور وطن بدلی کے لیے پولیس کریکٹر سرٹیفیکیٹ کی ضرورت پڑتی ہے۔",
+        "required_documents": [
+            "3 پاسپورٹ سایز تصاویر (ہلکے نیلے رنگ کا بیک گراوَنڈ، غیر مصدقہ)",
+            "شناختی کارڈ اصلی",
+            "شناختی کارڈ کی دو کاپیاں (گزیٹیڈ افسر سے مصدقہ)",
+            "اصلی پاسپورٹ",
+            "پاسپورٹ کی ایک کاپی (گزیٹیڈ افسر سے مصدقہ)",
+            "50 روپیہ کا حلف نامہ (عہدیدار کمشنر سے تصدیق شدہ)",
+            "اختیار نامہ (اگر درخواست دہندہ ملک سے باہر ہے)"
+        ],
+        "processing_fee": "500 روپے",
+        "processing_time": "5 سرکاری دن",
+        "delivery_method": "کوریئر",
+        "notes": "کریکٹر سرٹیفیکیٹ صرف امیدوار کے خود آنے پر ہی جمع کرایا جاتا ہے۔ اگر امیدوار ملک سے باہر ہو تو اس کی جگہ رشتہ دار اختیار نامہ کے ساتھ درخواست دے سکتا ہے۔"
+    },
+    {
+        "service_name": "پولیس ویریفیکیشن",
+        "description": "پاکستان کے مختلف اداروں میں ملازمت کی درخواست کے لیے پولیس ریکارڈ کی عمومی تصدیق ضروری ہوتی ہے۔",
+        "required_documents": [
+            "اصلی شناختی کارڈ",
+            "شناختی کارڈ کی دو کاپیاں"
+        ],
+        "processing_fee": "300 روپے",
+        "processing_time": "5 سرکاری دن",
+        "delivery_method": "کوریئر"
+    },
+    {
+        "service_name": "لرنرز ڈرایئونگ لائسنس",
+        "description": "شہری کسی بھی پی کے ایم سے لرنرز ڈرایئونگ لائسنس حاصل کر سکتے ہیں۔",
+        "required_documents": [
+            "اصلی شناختی کارڈ بمع ایک کاپی",
+            "ٹریفک قوایئد و قوانین کی کتاب",
+            "میڈیکل سرٹیفیکیٹ (50 سال سے بڑے امیدواروں کے لیے)"
+        ],
+        "age_limits": {
+            "motorcycle_car": "18 سال",
+            "ltv_rickshaw_commercial_tractor": "21 سال"
+        },
+        "processing_fee": "60 روپے",
+        "processing_time": "15 منٹ",
+        "delivery_method": "موقع پر",
+        "notes": "لرنرز پرمٹ روزانہ جاری ہوتے ہیں اور ان کی معیاد 2 مہینے ہوتی ہے۔"
+    },
+    {
+        "service_name": "ڈرایئونگ لائسنس کی تجدید",
+        "description": "شہری پولیس خدمت مرکز سے ڈرایئونگ لائسنس کی تجدید کے لئے درخواست جمع کروا سکتے ہیں۔",
+        "required_documents": [
+            "ضروری درخواست فارم ای فایئل کور کے ساتھ",
+            "2 عدد پاسپورٹ سایئز تصویریں",
+            "شناختی کارڈ کی کاپی",
+            "اصلی ڈرایئونگ لائسنس",
+            "میڈیکل سرٹیفیکیٹ (50 سال سے بڑے امیدواروں کے لیے)"
+        ],
+        "processing_fee": {
+            "motorcycle_rickshaw": "500 روپے",
+            "car_ltv": "750 روپے",
+            "htv": "2000 روپے"
+        },
+        "processing_time": "5 سرکاری دن",
+        "delivery_method": "کوریئر"
+    },
+    {
+        "service_name": "بین الاقوامی ڈرایئونگ لائسنس",
+        "description": "شہری پولیس خدمت مرکز سے بین الاقوامی ڈرایئونگ لائسنس کےلئے درخواست جمع کروا سکتے ہیں۔",
+        "required_documents": [
+            "بین الاقوامی درخواست فارم فایئل کور کے ساتھ",
+            "شناختی کارڈ کی تصدیق شدہ کاپی",
+            "لاہور سے حاصل کردہ اصلی ڈرایئونگ لائسنس کی کاپی",
+            "پاکستانی پاسپورٹ کی کاپی بمع 2 مہینہ کا ویزا",
+            "2 عدد پاسپورٹ سایئز تصویریں (تصدیق شدہ)"
+        ],
+        "processing_fee": "516 روپے (عدالتی ٹکٹ اور بینک چالان)",
+        "processing_time": "5 سرکاری دن",
+        "delivery_method": "کوریئر"
+    },
+    {
+        "service_name": "نقل ڈرایئونگ لائسنس",
+        "description": "شہری پولیس خدمت مرکز سے نقل ڈرایئونگ لائسنس کےلئے درخواست جمع کروا سکتے ہیں۔",
+        "required_documents": [
+            "ضروری نقل درخواست فارم",
+            "شناختی کارڈ کی تصدیق شدہ کاپی",
+            "2 عدد پاسپورٹ سایئز تصویریں",
+            "کمپیوٹر سیکشن سے کمپیوٹرائزڈ لائسنس رپورٹ",
+            "پولیس ایف آیَ آر",
+            "متعلقہ لائسنس کا ٹکٹ"
+        ],
+        "processing_fee": {
+            "motorcycle": "100 روپے",
+            "car_ltv": "300 روپے",
+            "htv": "200 روپے"
+        },
+        "processing_time": "5 سرکاری دن",
+        "delivery_method": "کوریئر"
+    },
+    {
+        "service_name": "ملازم کی رجسٹریشن",
+        "description": "کسی بھی گھریلو یا دیگر ملازم کو نوکری پر رکھتے وقت اس کا اندراج قریبی پولیس تھانے میں کروانا ہوتا ہے۔",
+        "required_documents": [
+            "درخواست دہندہ کا اصلی شناختی کارڈ بمع 2 کاپیاں",
+            "ملازم کے شناختی کارڈ کی 2 کاپیاں",
+            "ملازم کی 2 عدد پاسپورٹ سایئز تصاویر",
+            "ایفیڈوڈ بمع 2 گواہوں کی تصدیق"
+        ],
+        "processing_fee": "مفت",
+        "processing_time": "15 منٹ",
+        "delivery_method": "موقع پر"
+    },
+    {
+        "service_name": "کراےَ دار کی رجسٹریشن",
+        "description": "گھر یا ہاسٹل کراےَ پر دینے کے لیے پولیس تھانے یا خدمت مرکز میں رجسٹریشن کرانا ضروری ہے۔",
+        "required_documents": [
+            "مالک مکان کا شناختی کارڈ اور ایک کاپی",
+            "کراےَ دار کا شناختی کارڈ اور ایک کاپی",
+            "شٹامپ پیپر پر کراےَ کے معاہدہ کی کاپی"
+        ],
+        "processing_fee": "مفت",
+        "processing_time": "15 منٹ",
+        "delivery_method": "موقع پر"
+    },
+    {
+        "service_name": "گاڑی کی تصدیق",
+        "description": "گاڑی کی خرید و فروخت یا نقل و حمل سے قبل گاڑی کی تصدیق ضروری ہے۔",
+        "required_documents": [
+            "شناختی کارڈ بمع دو کاپیاں",
+            "گاڑی کے اصل کاغذات اور ایک کاپی",
+            "گاڑی کے مالک کا کمپیوٹرائزڈ شناختی کارڈ",
+            "این او سی اگر گاڑی بینک کے نام پر ہے"
+        ],
+        "processing_fee": {
+            "motorcycle": "500 روپے",
+            "car_ltv_htv": "2000 روپے"
+        },
+        "processing_time": "30 منٹ",
+        "delivery_method": "موقع پر"
+    },
+    {
+        "field_name": "District",
+        "options": [
+            "اٹک",
+            "بہاولنگر",
+            "بہاولپور",
+            "بھکر",
+            "چکوال",
+            "چنیوٹ",
+            "ڈی جی خان",
+            "فیصل آباد",
+            "گجرانوالہ",
+            "گجرات",
+            "حافظ آباد",
+            "جھنگ",
+            "جھلم",
+            "قصور",
+            "خانیوال",
+            "خوشاب",
+            "لاہور",
+            "لیہ",
+            "لودھران",
+            "منڈی بہاؤالدین",
+            "میانوالی",
+            "ملتان",
+            "مظفر گڑھ",
+            "ننکانہ صاحب",
+            "نارووال",
+            "اوکارہ",
+            "پاکپتن",
+            "رحیم یا خان",
+            "راجن پور",
+            "راولپنڈی",
+            "ساہیوال",
+            "سرگودھا",
+            "شیخوپورہ",
+            "سیالکوٹ",
+            "ٹوبہ ٹیک سنگھ",
+            "وہاری"
+        ]
+    },
+    {
+        "field_name": "Document Type",
+        "options": [
+            "شناختی کارڈ",
+            "دستاویز کی قسم",
+            "کریکٹر سرٹیفیکیٹ",
+            "جنرل پولیس ویریفیکیشن",
+            "پاسپورٹ نمبر"
+        ]
+    },
+    {
+        "field_name": "Country",
+        "options": [
+            "ملک منتخب کریں"
+        ]
+    },
+    {
+        "field_name": "Date of Issuance",
+        "options": [] 
+    },
+    {
+        "field_name": "Application Number",
+        "options": [] 
+    },
+    {
+        "field_name": "District",
+        "options": [
+            "اٹک",
+            "بہاولنگر",
+            "بہاولپور",
+            "بھکر",
+            "چکوال",
+            "چنیوٹ",
+            "ڈی جی خان",
+            "فیصل آباد",
+            "گجرانوالہ",
+            "گجرات",
+            "حافظ آباد",
+            "جھنگ",
+            "جھلم",
+            "قصور",
+            "خانیوال",
+            "خوشاب",
+            "لاہور",
+            "لیہ",
+            "لودھران",
+            "منڈی بہاؤالدین",
+            "میانوالی",
+            "ملتان",
+            "مظفر گڑھ",
+            "ننکانہ صاحب",
+            "نارووال",
+            "اوکارہ",
+            "پاکپتن",
+            "رحیم یا خان",
+            "راجن پور",
+            "راولپنڈی",
+            "ساہیوال",
+            "سرگودھا",
+            "شیخوپورہ",
+            "سیالکوٹ",
+            "ٹوبہ ٹیک سنگھ",
+            "وہاری"
+        ]
+    },
+    {
+        "field_name": "Document Type",
+        "options": [
+            "شناختی کارڈ",
+            "دستاویز کی قسم",
+            "کریکٹر سرٹیفیکیٹ",
+            "پاسپورٹ نمبر"
+        ]
+    },
+    {
+        "field_name": "Country",
+        "options": [
+            "ملک منتخب کریں"
+        ]
+    },
+    {
+        "subcategory": "Home",
+        "content": {
+            "welcome_message": "پولیس خدمت مرکز میں خوش آمدید",
+            "about_services": [
+                "اب پنجاب پولیس کی طرف سے فراہم کرہ سروسز حاصل کرنا نہایت آسان",
+                "ہم اپنے شہریوں کا احترام کرتے ہیں",
+                "شہری کسی بھی ضلع میں قائم کردہ پولیس خدمت مرکز سے خدمات حاصل کر سکتے ہیں",
+                "درخواست جمع کرانے کا آسان عمل",
+                "ون ونڈو آپریشن کے ذریئے شہری باآسانی اپنی مطلوبہ سروسز حاصل کر سکتے ہیں"
+            ],
+            "highlights": [
+                {
+                    "header": "آئی جی پنجاب کا پیغام",
+                    "message": "شہریوں کی بہترین خدمت ہی پنجاب پولیس کا اولین مقصد ہے۔ ہم اس عزم کی تکمیل کے لئے شبانہ روز کوشاں ہیں اور خدمت مراکز کا قیام اِسی کوشش کی ایک کڑی ہے۔"
+                },
+                {
+                    "header": "نظام کی خصوصیات",
+                    "details": [
+                        "تمام ڈسٹرکٹ ہیڈ کوارٹرز ہسپتالوں میں اس مربوط نظام کے تحت پولیس خدمت کاونٹر بھی بنائے جارہے ہیں تاکہ شہری میڈیکولیگل سرٹیفکیٹ کی سہولت بغیر کسی پریشانی اور پولیس اسٹیشن جائے بغیر وہیں سے حاصل کرسکیں۔",
+                        "اس سے نہ صرف وقت کی بچت ہوگی بلکہ عوامی شکایات کے خاتمہ کے ساتھ ساتھ نظام میں مزید شفافیت بھی آئے گی۔",
+                        "مستقبل میں یہ خدمت کاونٹر صوبہ بھر کے تحصیل ہیڈ کوارٹرہسپتالوں میں بھی قائم کئے جائیں گے۔"
+                    ]
+                }
+            ],
+            "statistics": {
+                "total_applications_processed": "10,322,513",
+                "total_website_visitors": "476,918,0",
+                "total_centers": "43",
+                "total_districts": "36"
+            },
+            "services_offered": [
+                "کریکٹر سرٹیفیکیٹ",
+                "پولیس ویریفیکیشن",
+                "لرنرز ڈرایئونگ لائسنس",
+                "ڈرایئونگ لائسنس کی تجدید",
+                "بین الاقوامی ڈرایئونگ لائسنس",
+                "نقل ڈرایئونگ لائسنس",
+                "لائسنس کی توثیق",
+                "ملازم کی رجسٹریشن",
+                "کراےَ دار کی رجسٹریشن",
+                "گاڑی کی تصدیق",
+                "گمشدگی رپورٹ",
+                "جرائم رپورٹ",
+                "خواتین پر تشدد رپورٹ",
+                "ایف۔آئ۔آر۔کی کاپی"
+            ],
+            "features": [
+                "درخواست جمع کرانے کا آسان عمل",
+                "شہریوں کے لیے یقینی اور کم وقت میں کام",
+                "شہریوں کے ساتھ باوقار سلوک",
+                "ڈاک کے ذریعہ دستاویزات کی ترسیل"
+            ],
+            "contact": {
+                "phone": "04299211356",
+                "email": "pkm.punjab@gmail.com",
+                "website": "https://punjabpolice.gov.pk/"
+            },
+            "partners": [
+                "پنجاب پولیس",
+                "پی آیَ ٹی بی"
+            ],
+            "footer": "© 2024 پنجاب پولیس اور پی آئی ٹی بی، پاکستان کی طرف سے جملہ حقوق محفوظ ہیں۔"
+        }
+    }
+]
+

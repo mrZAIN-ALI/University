@@ -1,3 +1,5 @@
 # Ignore a specific file
 invoice.zip
 invoice
+# Ignore all presednt in folder nameed invoice
+invoice/
