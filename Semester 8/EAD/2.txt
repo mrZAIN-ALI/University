@@ -1,0 +1,66 @@
+using System;
+using System.Data.SqlClient;
+using System.Windows;
+
+namespace StudentApp
+{
+    public partial class MainWindow : Window
+    {
+        // Create a Student object for data binding
+        private Student student = new Student();
+
+        public MainWindow()
+        {
+            InitializeComponent();
+            
+            // Set data context for data binding
+            DataContext = student;
+        }
+
+        // Button Click event handler to save the student data
+        private void SaveButton_Click(object sender, RoutedEventArgs e)
+        {
+            student.Password = txtPassword.Password;  // Get the password from PasswordBox
+            
+            // Call method to insert data into the database
+            InsertStudentIntoDatabase(student.Name, student.Password);
+        }
+
+        // Method to insert student data into the database
+        private void InsertStudentIntoDatabase(string name, string password)
+        {
+            string connectionString = "your_connection_string_here";
+
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                string query = "INSERT INTO Students (Name, Password) VALUES (@Name, @Password)";
+                SqlCommand cmd = new SqlCommand(query, conn);
+
+                cmd.Parameters.AddWithValue("@Name", name);
+                cmd.Parameters.AddWithValue("@Password", password);
+
+                try
+                {
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    MessageBox.Show("Student data inserted successfully!");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error: " + ex.Message);
+                }
+                finally
+                {
+                    conn.Close();
+                }
+            }
+        }
+    }
+
+    // Student class for data binding
+    public class Student
+    {
+        public string Name { get; set; }
+        public string Password { get; set; }
+    }
+}

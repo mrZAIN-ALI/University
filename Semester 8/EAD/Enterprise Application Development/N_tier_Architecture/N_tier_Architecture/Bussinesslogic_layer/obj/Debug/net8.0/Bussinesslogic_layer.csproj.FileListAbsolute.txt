@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\bin\Debug\net8.0\Bussinesslogic_layer.deps.json
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\bin\Debug\net8.0\Bussinesslogic_layer.dll
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\bin\Debug\net8.0\Bussinesslogic_layer.pdb
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\bin\Debug\net8.0\Bussiness_objects.dll
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\bin\Debug\net8.0\Bussiness_objects.pdb
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\Bussinesslogic_layer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\Bussinesslogic_layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\Bussinesslogic_layer.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\Bussinesslogic_layer.AssemblyInfo.cs
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\Bussinesslogic_layer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\Bussines.F057EA88.Up2Date
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\Bussinesslogic_layer.dll
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\refint\Bussinesslogic_layer.dll
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\Bussinesslogic_layer.pdb
+C:\Users\DELL\source\repos\N_tier_Architecture\Bussinesslogic_layer\obj\Debug\net8.0\ref\Bussinesslogic_layer.dll

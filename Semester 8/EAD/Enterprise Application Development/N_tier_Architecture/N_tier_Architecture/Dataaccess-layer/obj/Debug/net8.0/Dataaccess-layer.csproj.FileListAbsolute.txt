@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\bin\Debug\net8.0\Dataaccess-layer.deps.json
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\bin\Debug\net8.0\Dataaccess-layer.dll
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\bin\Debug\net8.0\Dataaccess-layer.pdb
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\bin\Debug\net8.0\Bussiness_objects.dll
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\bin\Debug\net8.0\Bussiness_objects.pdb
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\Dataaccess-layer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\Dataaccess-layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\Dataaccess-layer.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\Dataaccess-layer.AssemblyInfo.cs
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\Dataaccess-layer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\Dataacce.12DF371C.Up2Date
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\Dataaccess-layer.dll
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\refint\Dataaccess-layer.dll
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\Dataaccess-layer.pdb
+C:\Users\DELL\source\repos\N_tier_Architecture\Dataaccess-layer\obj\Debug\net8.0\ref\Dataaccess-layer.dll

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\WPF_SE_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4E7E08-6D87-48EB-B5C0-E98C8B4E88FD}|WPF_SE_Practice\\WPF_SE_Practice.csproj|c:\\users\\hp\\source\\repos\\wpf_se_practice\\wpf_se_practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF4E7E08-6D87-48EB-B5C0-E98C8B4E88FD}|WPF_SE_Practice\\WPF_SE_Practice.csproj|solutionrelative:wpf_se_practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4E7E08-6D87-48EB-B5C0-E98C8B4E88FD}|WPF_SE_Practice\\WPF_SE_Practice.csproj|c:\\users\\hp\\source\\repos\\wpf_se_practice\\wpf_se_practice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4E7E08-6D87-48EB-B5C0-E98C8B4E88FD}|WPF_SE_Practice\\WPF_SE_Practice.csproj|solutionrelative:wpf_se_practice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WPF_SE_Practice\\WPF_SE_Practice\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SE_Practice\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WPF_SE_Practice\\WPF_SE_Practice\\MainWindow.xaml*",
+              "RelativeToolTip": "WPF_SE_Practice\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T03:19:20.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WPF_SE_Practice\\WPF_SE_Practice\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_SE_Practice\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WPF_SE_Practice\\WPF_SE_Practice\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_SE_Practice\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA7wBwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:19:09.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
